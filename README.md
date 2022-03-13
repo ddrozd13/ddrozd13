@@ -27,6 +27,9 @@
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-app3">Country App</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-app-with-ts">Insult generator</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/my-first-react-app">Todo-List</a></li>
+     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-3">Places</a></li>
+     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-4">Cocktails</a></li>
+
   </ul>
 
 </details>
