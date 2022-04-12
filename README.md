@@ -29,7 +29,8 @@
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/my-first-react-app">Todo-List</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-3">Places</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-4">Cocktails</a></li>
-
+     <li><a href="https://github.com/ddrozd13/DotaStats">Dota2 Heroes</a></li>
+     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/disney-persons">Disney persons</a></li>
   </ul>
 
 </details>
