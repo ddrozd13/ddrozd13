@@ -24,13 +24,12 @@
 <details><summary><b> React(TypeScript) </b></summary>
 
   <ul>
-     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-app3">Country App</a></li>
-     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-app-with-ts">Insult generator</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/my-first-react-app">Todo-List</a></li>
-     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-3">Places</a></li>
-     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-redux-4">Cocktails</a></li>
+     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/react-app3">Country App</a></li>
      <li><a href="https://github.com/ddrozd13/DotaStats">Dota2 Heroes</a></li>
-     <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/disney-persons">Disney persons</a></li>
+     <li><a href="https://github.com/ddrozd13/pet-projects/tree/main/places">Places</a></li>
+     <li><a href="https://github.com/ddrozd13/pet-projects/tree/main/disney">Disney</a></li>
+     <li><a href="https://github.com/ddrozd13/pet-projects/tree/main/cripto-spa">Crypto-SPA</a></li>     
   </ul>
 
 </details>
