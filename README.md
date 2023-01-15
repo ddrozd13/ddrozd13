@@ -17,6 +17,7 @@
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/Bitcoin">Bitcoin App</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/AnimalApp">Animal App</a></li>
      <li><a href="https://github.com/ddrozd13/Learning-React/tree/main/npm-%20lesson">FBI Wanted</a></li>
+     <li><a href="https://github.com/ddrozd13/upgrade/tree/main/shop">Easy online-store</a></li>
   </ul>
 
 </details>
